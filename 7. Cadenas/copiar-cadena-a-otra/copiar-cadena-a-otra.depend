@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590007358 source:/home/juan/Escritorio/Cursos/C++/7. Cadenas/copiar-cadena-a-otra/main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+

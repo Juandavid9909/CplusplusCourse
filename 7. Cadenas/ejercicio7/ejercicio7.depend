@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590028380 source:c:\users\usuario\desktop\cursos\c++\7. cadenas\ejercicio7\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+
